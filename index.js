@@ -3,4 +3,4 @@ const addTwoNumbers = (a, b) => {
 }
 
 const result = addTwoNumbers(1,2);
-console.log(result);
+console.log('1 + 2 = ' + result);
